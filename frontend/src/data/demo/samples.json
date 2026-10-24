@@ -1,0 +1,7 @@
+[
+  {"id":"risky","name":"Risky · planted mistakes","description":"Six deterministic findings from planted claims.","text":"Meet BrightDay, the #1 best wellness app with guaranteed results. Our clinically proven plan helped 10k users. Grab the offer before it expires on 2024-01-01. This thing is totally lit, no cap!"},
+  {"id":"clean","name":"Clean · supported claims","description":"Supported user count and neutral tone.","text":"Meet BrightDay, a wellness app designed to support your daily routine. Join 8,500 registered users and explore a calmer way to build healthy habits."},
+  {"id":"expired","name":"Expired offer","description":"An old offer date to review.","text":"Meet BrightDay, a wellness app designed to support your daily routine. Save 20% before the offer expires on 2024-01-01."},
+  {"id":"health","name":"Health claim","description":"Unverified wording about health outcomes.","text":"BrightDay is clinically proven to restore your health in seven days. Start a calmer daily routine with our wellness app."},
+  {"id":"competitor","name":"Competitor comparison","description":"A comparative claim that needs a cited source.","text":"BrightDay is better than every other wellness app. Join 8,500 registered users and build a calmer daily routine."}
+]

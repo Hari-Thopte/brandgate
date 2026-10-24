@@ -1,0 +1,43 @@
+[
+  {
+    "sample_id": "risky",
+    "status": "complete",
+    "stage_index": 8,
+    "total_stages": 8,
+    "ai_status": "unavailable",
+    "timings_ms": {},
+    "findings_fixture": "../sample-fallback.json"
+  },
+  {
+    "sample_id": "clean",
+    "status": "complete",
+    "stage_index": 8,
+    "total_stages": 8,
+    "ai_status": "unavailable",
+    "timings_ms": {},
+    "findings": []
+  },
+  {
+    "sample_id": "expired",
+    "status": "complete",
+    "stage_index": 8,
+    "total_stages": 8,
+    "ai_status": "unavailable",
+    "timings_ms": {},
+    "findings": [
+      {
+        "category": "fact",
+        "severity": "high",
+        "confidence": 1,
+        "span_start": 108,
+        "span_end": 118,
+        "span_text": "2024-01-01",
+        "message": "The offer date in the ledger has expired.",
+        "suggestion": "Confirm a current offer date before publishing.",
+        "source_type": "ledger",
+        "source_id": "ledger-offer",
+        "status": "open"
+      }
+    ]
+  }
+]

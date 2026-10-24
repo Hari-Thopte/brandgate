@@ -1,0 +1,5184 @@
+[
+  {
+    "route": "/",
+    "theme": "light",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 74,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(35, 64, 122)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 9.02,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "How it works",
+        "selector": "a.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Brand Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "AI & Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Dark",
+        "selector": "button.theme-toggle",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try the demo brand",
+        "selector": "button.primary",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BRANDGATE · BRAND GOVERNANCE",
+        "selector": "div.eyebrow",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Every ad gets a second pair of eyes before it ships.",
+        "selector": "h1",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "64px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Check campaign copy against brand rules and approved facts. A reviewer decides what to change.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try it on a sample ad",
+        "selector": "button.primary.large",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "15px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "See how a review works",
+        "selector": "a.secondary-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "15px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "No account. Rule and ledger checks run first; AI review is optional.",
+        "selector": "p.honest-line",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BRIGHTDAY · SUMMER LAUNCH",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "ILLUSTRATIVE SAMPLE",
+        "selector": "span.tiny-pill",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "MARKETING COPY",
+        "selector": "div.preview-label",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 5.28,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the #1 best wellness app with guaranteed results.",
+        "selector": "p",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 15.4,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "#1 best",
+        "selector": "button.preview-mark.high",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(251, 229, 225)",
+        "ratio": 12.97,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Our clinically proven plan helped 10k users.",
+        "selector": "p",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 15.4,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "10k users",
+        "selector": "button.preview-mark.medium",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 15.4,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Grab the offer before it expires on 2024-01-01.",
+        "selector": "p",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 15.4,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2024-01-01",
+        "selector": "button.preview-mark.high",
+        "color": "rgb(38, 35, 30)",
+        "background": "rgb(251, 229, 225)",
+        "ratio": 12.97,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Select a marked phrase to open the sample in the review flow.",
+        "selector": "div.preview-note",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 9.25,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "1",
+        "selector": "span.finding-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(200, 50, 30)",
+        "ratio": 5.34,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Fact · “10k users”",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Ledger records 8,500 users · no expiry recorded",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "↗",
+        "selector": "span",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "span.finding-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(200, 50, 30)",
+        "ratio": 5.34,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Style · “#1 best”",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Unsupported superlative · brand guideline",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "↗",
+        "selector": "span",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "HOW REVIEW WORKS",
+        "selector": "span.section-label",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "One review, grounded end to end.",
+        "selector": "h2",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Bring the copy. See the evidence. Record a human decision before approval.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Paste",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Write or load campaign copy.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Check",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Run deterministic brand and ledger checks.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decide",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Accept, edit, or dismiss with a reason.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Approve",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Complete the reviewer sign-off.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SOURCE · ledger-users",
+        "selector": "span.section-label",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 8.64,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Every finding points to its evidence.",
+        "selector": "h2",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 16.76,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "The reported claim and the approved fact stay visible together.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 8.64,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AD CLAIM",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "“10k users”",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "500"
+      },
+      {
+        "text": "→",
+        "selector": "span.evidence-connector",
+        "color": "rgb(35, 64, 122)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 9.5,
+        "fontSize": "20px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "FACTS LEDGER · SUPPORTED",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "8,500 registered users",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "500"
+      },
+      {
+        "text": "Demo user-count record · no expiry recorded",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "HUMAN REVIEW",
+        "selector": "span.section-label",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "People keep the final say.",
+        "selector": "h2",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 15.08,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Nothing changes automatically. Each finding gets an explicit reviewer decision.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(238, 233, 223)",
+        "ratio": 7.77,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Accept the suggested revision",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Edit it for this campaign",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Dismiss with a recorded reason",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Approval becomes available after every finding is decided.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AI & PRIVACY",
+        "selector": "span.section-label",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 8.64,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Deterministic checks first. Optional model review.",
+        "selector": "h2",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 16.76,
+        "fontSize": "30px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "BrandGate checks copy against bundled demo rules and ledger data. Sanitized copy and matching eviden",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 8.64,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "See what is sent and stored",
+        "selector": "button.secondary",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(248, 245, 238)",
+        "ratio": 16.76,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Put the sample through review.",
+        "selector": "h2",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(33, 31, 26)",
+        "ratio": 15.53,
+        "fontSize": "36px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Inspect the sources, decide on each finding, then approve the item.",
+        "selector": "p",
+        "color": "rgb(210, 203, 188)",
+        "background": "rgb(33, 31, 26)",
+        "ratio": 10.2,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try it on a sample ad",
+        "selector": "button.primary.large",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "15px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BrandGate · Team Cipher · Illustrative demo",
+        "selector": "span",
+        "color": "rgb(222, 216, 204)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 12.86,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 16.35,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "README",
+        "selector": "a",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 16.35,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Brand Hub",
+        "selector": "button",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 16.35,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Round 3 plan: Ledger expiry alerts · Guideline Health · Evaluation Harness",
+        "selector": "span",
+        "color": "rgb(222, 216, 204)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 12.86,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 21 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/start",
+    "theme": "light",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 55,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(35, 64, 122)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 9.02,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link.active",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 15.1,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "← Back",
+        "selector": "button.back-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BRIGHTDAY · DEMO BRAND",
+        "selector": "div.eyebrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 4.81,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start a review",
+        "selector": "h1",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "40px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "Check claims against approved facts, plus brand terms, tone and readability.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AD COPY",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "193/12,000 characters",
+        "selector": "span",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Marketing ad copy",
+        "selector": "label.sr-only",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the #1 best wellness app with guaranteed results. Our clinically proven plan helped ",
+        "selector": "textarea",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "23px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "32 words · 193 characters",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Open .txt or .md",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BrightDay · 17 guidelines · deterministic checks active",
+        "selector": "span.input-hint",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Analyze ad → ⌘↵",
+        "selector": "button.primary",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "⌘↵",
+        "selector": "kbd",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "What we check 17 brand rules",
+        "selector": "summary",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "19px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "17 brand rules",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Banned and preferred terms",
+        "selector": "li",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Claims against the Facts Ledger",
+        "selector": "li",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Dates and expired offers",
+        "selector": "li",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Tone and readability signals",
+        "selector": "li",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try a sample ad",
+        "selector": "h2",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "19px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "!",
+        "selector": "span.sample-icon",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(210, 227, 252)",
+        "ratio": 6.03,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Risky · planted mistakes",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 15.93,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Six deterministic findings from planted claims.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 8.21,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 4.68,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "✓",
+        "selector": "span.sample-icon",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Clean · supported claims",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Supported user count and neutral tone.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◷",
+        "selector": "span.sample-icon",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Expired offer",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "An old offer date to review.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◇",
+        "selector": "span.sample-icon",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Health claim",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Unverified wording about health outcomes.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◇",
+        "selector": "span.sample-icon",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Competitor comparison",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "A comparative claim that needs a cited source.",
+        "selector": "small",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 5.06,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Demo content is stored in API memory, or locally in this browser if the API is unavailable.",
+        "selector": "div.privacy-note",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 11 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/review/visual-proof-20261024",
+    "theme": "light",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 134,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(35, 64, 122)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 9.02,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrightDay",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "/",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Summer launch",
+        "selector": "strong",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "14px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "v2",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "10.8333px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "In review",
+        "selector": "span.status-pill",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.91,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "26",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "18px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "/100",
+        "selector": "small",
+        "color": "rgb(107, 114, 128)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 4.83,
+        "fontSize": "9px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Review score",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 accepted",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 edited",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 dismissed",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6 open",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Request changes",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Approve",
+        "selector": "button.primary.mini",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Local fallback",
+        "selector": "b",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.91,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Using the saved sample findings. The live service did not respond. Decisions and audit events are st",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.92,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Retry live",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 17.31,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Copy diagnostics",
+        "selector": "button.quiet.mini",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.92,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "FINDINGS",
+        "selector": "div.pane-title",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "6 grounded · 6 open",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "?",
+        "selector": "button.quiet.mini",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 9.41,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "All",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Open",
+        "selector": "button.active",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 7.85,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decided",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "high 4",
+        "selector": "h3",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "4",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "10px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "1",
+        "selector": "span.index-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(26, 115, 232)",
+        "ratio": 4.51,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "style",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 11.35,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“#1 best”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 5.28,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(232, 240, 254)",
+        "ratio": 5.28,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "legal",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“guaranteed results”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "3",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“clinically proven”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "5",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“2024-01-01”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "medium 2",
+        "selector": "h3",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "2",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "10px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "4",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“10k users”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "banned term",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“no cap”",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Analysis stages · 8/8 ＋",
+        "selector": "button.pipeline-pill",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "＋",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SUMMER LAUNCH · AD COPY",
+        "selector": "div.pane-title",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(245, 247, 250)",
+        "ratio": 5.64,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Click a numbered mark to inspect its finding",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(245, 247, 250)",
+        "ratio": 5.64,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "ORIGINAL",
+        "selector": "span.tiny-pill",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.91,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Compliance",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "82",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Evidence",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "58",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Tone",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "100",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Clarity",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "90",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Original",
+        "selector": "button.active",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 7.85,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Revised",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Diff",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrightDay · Summer launch",
+        "selector": "span",
+        "color": "rgb(117, 113, 106)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 4.77,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "MARKETING COPY / V2",
+        "selector": "span",
+        "color": "rgb(117, 113, 106)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 4.77,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the 1#1 best wellness app with 2guaranteed results. Our 3clinically proven plan help",
+        "selector": "div.ad-content.paper.manuscript-text",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 12.27,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "1",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "#1 best",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 11.04,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "guaranteed results",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 11.04,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "3",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "clinically proven",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 11.04,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "4",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "10k users",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 12.27,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "5",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "2024-01-01",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 11.04,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "no cap",
+        "selector": "span",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 12.27,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Original copy remains unchanged. Accepted and edited suggestions appear in Revised and Diff previews",
+        "selector": "footer.paper-foot",
+        "color": "rgb(107, 114, 128)",
+        "background": "rgb(255, 253, 248)",
+        "ratio": 4.76,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "FINDING 1 OF 6",
+        "selector": "div.pane-title",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Human review required",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "style",
+        "selector": "span.category",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "10px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "▲ high",
+        "selector": "span.severity.high",
+        "color": "rgb(200, 50, 30)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 4.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "▲",
+        "selector": "b",
+        "color": "rgb(200, 50, 30)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 4.53,
+        "fontSize": "12px",
+        "fontWeight": "900"
+      },
+      {
+        "text": "Rule match ✓",
+        "selector": "span.confidence-match",
+        "color": "rgb(19, 115, 51)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 5.95,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "MATCHED PHRASE",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 5.13,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“#1 best”",
+        "selector": "b",
+        "color": "rgb(60, 64, 67)",
+        "background": "rgb(252, 232, 230)",
+        "ratio": 8.88,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Superlative is not supported by an approved source.",
+        "selector": "p.detail-message",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 9.39,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SOURCE NOTE",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 5.74,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Guideline",
+        "selector": "span.ledger-chip",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 5,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Avoid unsupported superlatives.",
+        "selector": "b",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 12.34,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Brand rule: avoid unsupported superlatives.",
+        "selector": "p",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 5.74,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "rule-superlative ↗",
+        "selector": "button.source.source-button",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 7.44,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "SUGGESTED REVISION",
+        "selector": "label.suggestion-label",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Remove the superlative.",
+        "selector": "textarea",
+        "color": "rgb(48, 49, 52)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 13.01,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Accept revision",
+        "selector": "button.primary",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Save edit",
+        "selector": "button.secondary",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Dismiss",
+        "selector": "button.quiet",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 9.41,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Recent audit",
+        "selector": "b",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Reviewer note",
+        "selector": "label",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Add",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "AUDIT TIMELINE",
+        "selector": "div.pane-title",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Every review decision is recorded",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 events",
+        "selector": "span.count-pill",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.91,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "All",
+        "selector": "button.active",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 7.85,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decisions",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Comments",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Status",
+        "selector": "button",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Markdown",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "JSON",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Print",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 18.25,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "No events in this filter yet.",
+        "selector": "div.empty",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 5.37,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 16 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/review/visual-proof-20261024/audit",
+    "theme": "light",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 20,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(35, 64, 122)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 9.02,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 17.22,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(251, 248, 242)",
+        "background": "rgb(23, 21, 15)",
+        "ratio": 17.22,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(239, 233, 221)",
+        "ratio": 7.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "← Back to review",
+        "selector": "button.back-link",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AUDIT HISTORY",
+        "selector": "div.eyebrow",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 4.81,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review activity",
+        "selector": "h1",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "42px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "Recorded actions for this item, newest first.",
+        "selector": "p",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 8.42,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "No audit events yet.",
+        "selector": "div.empty",
+        "color": "rgb(112, 106, 94)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 4.81,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Verify audit chain",
+        "selector": "button.secondary.mini",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Live · 4 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(74, 70, 60)",
+        "background": "rgb(251, 248, 242)",
+        "ratio": 8.87,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "theme": "dark",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 74,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(143, 168, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.83,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "How it works",
+        "selector": "a.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Brand Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "AI & Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Light",
+        "selector": "button.theme-toggle",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try the demo brand",
+        "selector": "button.primary",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BRANDGATE · BRAND GOVERNANCE",
+        "selector": "div.eyebrow",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Every ad gets a second pair of eyes before it ships.",
+        "selector": "h1",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 15.5,
+        "fontSize": "64px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Check campaign copy against brand rules and approved facts. A reviewer decides what to change.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try it on a sample ad",
+        "selector": "button.primary.large",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "15px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "See how a review works",
+        "selector": "a.secondary-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "15px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "No account. Rule and ledger checks run first; AI review is optional.",
+        "selector": "p.honest-line",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BRIGHTDAY · SUMMER LAUNCH",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "ILLUSTRATIVE SAMPLE",
+        "selector": "span.tiny-pill",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "MARKETING COPY",
+        "selector": "div.preview-label",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the #1 best wellness app with guaranteed results.",
+        "selector": "p",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "#1 best",
+        "selector": "button.preview-mark.high",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Our clinically proven plan helped 10k users.",
+        "selector": "p",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "10k users",
+        "selector": "button.preview-mark.medium",
+        "color": "rgb(255, 248, 221)",
+        "background": "rgb(85, 72, 21)",
+        "ratio": 8.49,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Grab the offer before it expires on 2024-01-01.",
+        "selector": "p",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2024-01-01",
+        "selector": "button.preview-mark.high",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Select a marked phrase to open the sample in the review flow.",
+        "selector": "div.preview-note",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "1",
+        "selector": "span.finding-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(143, 59, 47)",
+        "ratio": 7.41,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Fact · “10k users”",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Ledger records 8,500 users · no expiry recorded",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "↗",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "span.finding-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(143, 59, 47)",
+        "ratio": 7.41,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Style · “#1 best”",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Unsupported superlative · brand guideline",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "↗",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "HOW REVIEW WORKS",
+        "selector": "span.section-label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 10.47,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "One review, grounded end to end.",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 14.38,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Bring the copy. See the evidence. Record a human decision before approval.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 10.47,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Paste",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Write or load campaign copy.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Check",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Run deterministic brand and ledger checks.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decide",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Accept, edit, or dismiss with a reason.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Approve",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Complete the reviewer sign-off.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SOURCE · ledger-users",
+        "selector": "span.section-label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 11,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Every finding points to its evidence.",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 15.11,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "The reported claim and the approved fact stay visible together.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 11,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AD CLAIM",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "“10k users”",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "500"
+      },
+      {
+        "text": "→",
+        "selector": "span.evidence-connector",
+        "color": "rgb(143, 168, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 7.34,
+        "fontSize": "20px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "FACTS LEDGER · SUPPORTED",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "8,500 registered users",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "500"
+      },
+      {
+        "text": "Demo user-count record · no expiry recorded",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "HUMAN REVIEW",
+        "selector": "span.section-label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 10.47,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "People keep the final say.",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 14.38,
+        "fontSize": "42px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Nothing changes automatically. Each finding gets an explicit reviewer decision.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(28, 27, 22)",
+        "ratio": 10.47,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Accept the suggested revision",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Edit it for this campaign",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Dismiss with a recorded reason",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Approval becomes available after every finding is decided.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AI & PRIVACY",
+        "selector": "span.section-label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 11,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Deterministic checks first. Optional model review.",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 15.11,
+        "fontSize": "30px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "BrandGate checks copy against bundled demo rules and ledger data. Sanitized copy and matching eviden",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(23, 22, 17)",
+        "ratio": 11,
+        "fontSize": "15px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "See what is sent and stored",
+        "selector": "button.secondary",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(52, 49, 39)",
+        "ratio": 10.85,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Put the sample through review.",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(33, 31, 26)",
+        "ratio": 13.73,
+        "fontSize": "36px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Inspect the sources, decide on each finding, then approve the item.",
+        "selector": "p",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(33, 31, 26)",
+        "ratio": 13.73,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try it on a sample ad",
+        "selector": "button.primary.large",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(246, 242, 234)",
+        "ratio": 16.35,
+        "fontSize": "15px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BrandGate · Team Cipher · Illustrative demo",
+        "selector": "span",
+        "color": "rgb(222, 216, 204)",
+        "background": "rgb(15, 14, 11)",
+        "ratio": 13.6,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(15, 14, 11)",
+        "ratio": 17.29,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "README",
+        "selector": "a",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(15, 14, 11)",
+        "ratio": 17.29,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Brand Hub",
+        "selector": "button",
+        "color": "rgb(246, 242, 234)",
+        "background": "rgb(15, 14, 11)",
+        "ratio": 17.29,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Round 3 plan: Ledger expiry alerts · Guideline Health · Evaluation Harness",
+        "selector": "span",
+        "color": "rgb(222, 216, 204)",
+        "background": "rgb(15, 14, 11)",
+        "ratio": 13.6,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 12 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/start",
+    "theme": "dark",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 55,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(143, 168, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.83,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link.active",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 13.27,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "← Back",
+        "selector": "button.back-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BRIGHTDAY · DEMO BRAND",
+        "selector": "div.eyebrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.33,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start a review",
+        "selector": "h1",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 15.5,
+        "fontSize": "40px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "Check claims against approved facts, plus brand terms, tone and readability.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AD COPY",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "193/12,000 characters",
+        "selector": "span",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Marketing ad copy",
+        "selector": "label.sr-only",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the #1 best wellness app with guaranteed results. Our clinically proven plan helped ",
+        "selector": "textarea",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "23px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "32 words · 193 characters",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Open .txt or .md",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "BrightDay · 17 guidelines · deterministic checks active",
+        "selector": "span.input-hint",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Analyze ad → ⌘↵",
+        "selector": "button.primary",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "⌘↵",
+        "selector": "kbd",
+        "color": "rgb(23, 21, 15)",
+        "background": "rgb(208, 201, 187)",
+        "ratio": 11.08,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "What we check 17 brand rules",
+        "selector": "summary",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "19px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "17 brand rules",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Banned and preferred terms",
+        "selector": "li",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Claims against the Facts Ledger",
+        "selector": "li",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Dates and expired offers",
+        "selector": "li",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Tone and readability signals",
+        "selector": "li",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Try a sample ad",
+        "selector": "h2",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "19px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "!",
+        "selector": "span.sample-icon",
+        "color": "rgb(23, 78, 166)",
+        "background": "rgb(210, 227, 252)",
+        "ratio": 6.03,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Risky · planted mistakes",
+        "selector": "b",
+        "color": "rgb(220, 231, 251)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 9.78,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Six deterministic findings from planted claims.",
+        "selector": "small",
+        "color": "rgb(220, 231, 251)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 9.78,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(220, 231, 251)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 9.78,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "✓",
+        "selector": "span.sample-icon",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Clean · supported claims",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Supported user count and neutral tone.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◷",
+        "selector": "span.sample-icon",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Expired offer",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "An old offer date to review.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◇",
+        "selector": "span.sample-icon",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Health claim",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "Unverified wording about health outcomes.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "◇",
+        "selector": "span.sample-icon",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Competitor comparison",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "630"
+      },
+      {
+        "text": "A comparative claim that needs a cited source.",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "→",
+        "selector": "span.sample-arrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Demo content is stored in API memory, or locally in this browser if the API is unavailable.",
+        "selector": "div.privacy-note",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 4 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/review/visual-proof-20261024",
+    "theme": "dark",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 134,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(143, 168, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.83,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrightDay",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "/",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Summer launch",
+        "selector": "strong",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "v2",
+        "selector": "small",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 5.44,
+        "fontSize": "10.8333px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "In review",
+        "selector": "span.status-pill",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 12.51,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "26",
+        "selector": "b",
+        "color": "rgb(32, 33, 36)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 16.1,
+        "fontSize": "18px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "/100",
+        "selector": "small",
+        "color": "rgb(107, 114, 128)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 4.83,
+        "fontSize": "9px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Review score",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 accepted",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 edited",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 dismissed",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "·",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6 open",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Request changes",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Approve",
+        "selector": "button.primary.mini",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Local fallback",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(36, 35, 29)",
+        "ratio": 13.14,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Using the saved sample findings. The live service did not respond. Decisions and audit events are st",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 35, 29)",
+        "ratio": 9.57,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Retry live",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(36, 35, 29)",
+        "ratio": 13.14,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Copy diagnostics",
+        "selector": "button.quiet.mini",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 35, 29)",
+        "ratio": 9.57,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "FINDINGS",
+        "selector": "div.pane-title",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "6 grounded · 6 open",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "?",
+        "selector": "button.quiet.mini",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "All",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Open",
+        "selector": "button.active",
+        "color": "rgb(234, 241, 255)",
+        "background": "rgb(52, 61, 76)",
+        "ratio": 9.66,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decided",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "high 4",
+        "selector": "h3",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "4",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(52, 49, 39)",
+        "ratio": 10.85,
+        "fontSize": "10px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "1",
+        "selector": "span.index-number",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(26, 115, 232)",
+        "ratio": 4.51,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "style",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 10.16,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“#1 best”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 7.4,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(39, 54, 78)",
+        "ratio": 7.4,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "legal",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“guaranteed results”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "3",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“clinically proven”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "5",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“2024-01-01”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "medium 2",
+        "selector": "h3",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "2",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(52, 49, 39)",
+        "ratio": 10.85,
+        "fontSize": "10px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "4",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "fact",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“10k users”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6",
+        "selector": "span.index-number",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(241, 243, 244)",
+        "ratio": 8.44,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "banned term",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“no cap”",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "○",
+        "selector": "span.index-state",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Analysis stages · 8/8 ＋",
+        "selector": "button.pipeline-pill",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "＋",
+        "selector": "span",
+        "color": "rgb(95, 99, 104)",
+        "background": "rgb(255, 255, 255)",
+        "ratio": 6.05,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SUMMER LAUNCH · AD COPY",
+        "selector": "div.pane-title",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Click a numbered mark to inspect its finding",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "ORIGINAL",
+        "selector": "span.tiny-pill",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 12.51,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Compliance",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "82",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Evidence",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "58",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Tone",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "100",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Clarity",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "90",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Original",
+        "selector": "button.active",
+        "color": "rgb(234, 241, 255)",
+        "background": "rgb(52, 61, 76)",
+        "ratio": 9.66,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Revised",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Diff",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrightDay · Summer launch",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(32, 31, 25)",
+        "ratio": 10.03,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "MARKETING COPY / V2",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(32, 31, 25)",
+        "ratio": 10.03,
+        "fontSize": "10px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Meet BrightDay, the 1#1 best wellness app with 2guaranteed results. Our 3clinically proven plan help",
+        "selector": "div.ad-content.paper.manuscript-text",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "1",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "#1 best",
+        "selector": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "2",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "guaranteed results",
+        "selector": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "3",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "clinically proven",
+        "selector": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "4",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "10k users",
+        "selector": "span",
+        "color": "rgb(255, 248, 221)",
+        "background": "rgb(85, 72, 21)",
+        "ratio": 8.49,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "5",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "2024-01-01",
+        "selector": "span",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(105, 39, 31)",
+        "ratio": 10.99,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "6",
+        "selector": "sup",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(179, 38, 30)",
+        "ratio": 6.54,
+        "fontSize": "9px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "no cap",
+        "selector": "span",
+        "color": "rgb(255, 248, 221)",
+        "background": "rgb(85, 72, 21)",
+        "ratio": 8.49,
+        "fontSize": "17px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Original copy remains unchanged. Accepted and edited suggestions appear in Revised and Diff previews",
+        "selector": "footer.paper-foot",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(32, 31, 25)",
+        "ratio": 10.03,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "FINDING 1 OF 6",
+        "selector": "div.pane-title",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Human review required",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "style",
+        "selector": "span.category",
+        "color": "rgb(220, 231, 251)",
+        "background": "rgb(43, 53, 70)",
+        "ratio": 9.92,
+        "fontSize": "10px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "▲ high",
+        "selector": "span.severity.high",
+        "color": "rgb(255, 217, 213)",
+        "background": "rgb(86, 36, 30)",
+        "ratio": 9.68,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "▲",
+        "selector": "b",
+        "color": "rgb(255, 217, 213)",
+        "background": "rgb(86, 36, 30)",
+        "ratio": 9.68,
+        "fontSize": "12px",
+        "fontWeight": "900"
+      },
+      {
+        "text": "Rule match ✓",
+        "selector": "span.confidence-match",
+        "color": "rgb(195, 240, 215)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 13.91,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "MATCHED PHRASE",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "“#1 best”",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Superlative is not supported by an approved source.",
+        "selector": "p.detail-message",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "SOURCE NOTE",
+        "selector": "span",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Guideline",
+        "selector": "span.ledger-chip",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(52, 49, 39)",
+        "ratio": 7.9,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Avoid unsupported superlatives.",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Brand rule: avoid unsupported superlatives.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "rule-superlative ↗",
+        "selector": "button.source.source-button",
+        "color": "rgb(182, 200, 240)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.38,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "SUGGESTED REVISION",
+        "selector": "label.suggestion-label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "10px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Remove the superlative.",
+        "selector": "textarea",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Accept revision",
+        "selector": "button.primary",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Save edit",
+        "selector": "button.secondary",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Dismiss",
+        "selector": "button.quiet",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "14px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Recent audit",
+        "selector": "b",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Reviewer note",
+        "selector": "label",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "Add",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "AUDIT TIMELINE",
+        "selector": "div.pane-title",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "700"
+      },
+      {
+        "text": "Every review decision is recorded",
+        "selector": "small",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "0 events",
+        "selector": "span.count-pill",
+        "color": "rgb(68, 71, 70)",
+        "background": "rgb(248, 249, 250)",
+        "ratio": 8.91,
+        "fontSize": "12px",
+        "fontWeight": "600"
+      },
+      {
+        "text": "All",
+        "selector": "button.active",
+        "color": "rgb(234, 241, 255)",
+        "background": "rgb(52, 61, 76)",
+        "ratio": 9.66,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Decisions",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Comments",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Status",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(40, 39, 31)",
+        "ratio": 9.11,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Markdown",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "JSON",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Print",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "No events in this filter yet.",
+        "selector": "div.empty",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 6.88,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Live · 18 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  },
+  {
+    "route": "/review/visual-proof-20261024/audit",
+    "theme": "dark",
+    "fontFamily": "\"Instrument Sans\", Arial, sans-serif",
+    "instrumentLoaded": true,
+    "frauncesLoaded": true,
+    "total": 20,
+    "failures": [],
+    "checks": [
+      {
+        "text": "Skip to content",
+        "selector": "a.skip-link",
+        "color": "rgb(143, 168, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.83,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "BrandGate",
+        "selector": "button.wordmark",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "18px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Start",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Queue",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Hub",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "Privacy",
+        "selector": "button.nav-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "15px",
+        "fontWeight": "550"
+      },
+      {
+        "text": "⌘K",
+        "selector": "button.command-hint",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Theme",
+        "selector": "button.theme-toggle",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "12px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Creator",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Reviewer",
+        "selector": "button.selected",
+        "color": "rgb(27, 26, 21)",
+        "background": "rgb(239, 234, 224)",
+        "ratio": 14.53,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Manager",
+        "selector": "button",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(36, 34, 27)",
+        "ratio": 9.66,
+        "fontSize": "13px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Viewing as Reviewer",
+        "selector": "b",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review grounded findings, add comments, and approve after decisions.",
+        "selector": "span",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 14.53,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "← Back to review",
+        "selector": "button.back-link",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "AUDIT HISTORY",
+        "selector": "div.eyebrow",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.33,
+        "fontSize": "12px",
+        "fontWeight": "650"
+      },
+      {
+        "text": "Review activity",
+        "selector": "h1",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 15.5,
+        "fontSize": "42px",
+        "fontWeight": "560"
+      },
+      {
+        "text": "Recorded actions for this item, newest first.",
+        "selector": "p",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 11.29,
+        "fontSize": "16px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "No audit events yet.",
+        "selector": "div.empty",
+        "color": "rgb(170, 162, 145)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 7.33,
+        "fontSize": "14px",
+        "fontWeight": "400"
+      },
+      {
+        "text": "Verify audit chain",
+        "selector": "button.secondary.mini",
+        "color": "rgb(239, 234, 224)",
+        "background": "rgb(20, 19, 15)",
+        "ratio": 15.5,
+        "fontSize": "13px",
+        "fontWeight": "620"
+      },
+      {
+        "text": "Live · 4 ms",
+        "selector": "span.connection-indicator",
+        "color": "rgb(208, 201, 187)",
+        "background": "rgb(27, 26, 21)",
+        "ratio": 10.58,
+        "fontSize": "11px",
+        "fontWeight": "400"
+      }
+    ]
+  }
+]

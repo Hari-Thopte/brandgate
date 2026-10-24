@@ -1,0 +1,9 @@
+/** Returns the shared BrandGate eye-and-gate B mark. */
+export function logoSvg(className = 'brand-logo-mark') {
+  return `<svg class="${className}" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <rect width="64" height="64" rx="15" fill="var(--logo-tile)"/>
+  <path fill="var(--logo-on)" fill-rule="evenodd" d="M15 8H34C43 8 49 13 49 20.5C49 25.5 46.5 29 42.5 30.8C48 32.5 52 37 52 43.5C52 51.5 45.5 56 36 56H15Z M32 14.5a6.7 6.7 0 1 0 .01 0Z M24.5 49V40.5A7 7 0 0 1 38.5 40.5V49Z"/>
+  <circle cx="32" cy="21.2" r="3.2" fill="var(--logo-flag)"/>
+  <path d="M24.5 49V40.5A7 7 0 0 1 38.5 40.5V49Z" fill="var(--logo-ok)"/>
+</svg>`;
+}

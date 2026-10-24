@@ -1,0 +1,6 @@
+[
+  {"id":"ledger-offer","claim":"Offer valid through 2024-01-01","value":"2024-01-01","source":"Demo offer record","status":"Expired","expires_at":"2024-01-01"},
+  {"id":"ledger-users","claim":"Registered users","value":"8,500","source":"Demo user-count record","status":"Supported","expires_at":null},
+  {"id":"ledger-clinical","claim":"Clinical efficacy claim","value":null,"source":"No approved source recorded","owner":"Demo brand team","status":"Unregistered","expires_at":null},
+  {"id":"ledger-promo","claim":"Demo seasonal offer","value":"10% off","source":"Illustrative demo offer record","owner":"Demo brand team","status":"Supported","expires_at":"2026-11-09"}
+]

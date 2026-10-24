@@ -1,0 +1,19 @@
+[
+  {"id":"rule-superlative","text":"Avoid unsupported superlatives.","severity":"high","good_example":"Designed for daily wellness routines.","bad_example":"The #1 best wellness app."},
+  {"id":"rule-guarantee","text":"Guarantees need approved evidence.","severity":"high","good_example":"May support your routine.","bad_example":"Guaranteed results."},
+  {"id":"rule-clinical","text":"Clinical claims require an approved source.","severity":"high","good_example":"A plan for everyday habits.","bad_example":"Clinically proven."},
+  {"id":"rule-slang","text":"Use the approved, professional brand voice.","severity":"medium","good_example":"Explore a calmer routine.","bad_example":"This is lit, no cap."},
+  {"id":"rule-clarity","text":"Use clear language that customers can understand."},
+  {"id":"rule-audience","text":"Write for the intended customer audience."},
+  {"id":"rule-privacy","text":"Do not expose private customer information."},
+  {"id":"rule-comparison","text":"Comparisons must be fair and evidenced."},
+  {"id":"rule-pricing","text":"Show material price conditions clearly."},
+  {"id":"rule-availability","text":"Availability statements must be current."},
+  {"id":"rule-disclaimer","text":"Keep required disclaimers near the related claim."},
+  {"id":"rule-tone","text":"Keep the tone calm and respectful."},
+  {"id":"rule-accessibility","text":"Use accessible and inclusive wording."},
+  {"id":"rule-brand-name","text":"Use the approved brand name and spelling."},
+  {"id":"rule-testimonials","text":"Testimonials need permission and accurate attribution."},
+  {"id":"rule-before-after","text":"Before-and-after claims need substantiation."},
+  {"id":"rule-scarcity","text":"Scarcity claims must reflect real availability."}
+]

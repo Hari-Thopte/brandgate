@@ -1,0 +1,22 @@
+[
+  {"term":"no cap","meaning":"Banned term: informal slang","type":"Banned","replacement":"Use a neutral statement."},
+  {"term":"guaranteed","meaning":"Banned term: absolute promise","type":"Banned","replacement":"Describe supported product features."},
+  {"term":"risk-free","meaning":"Requires legal review","type":"Needs legal"},
+  {"term":"miracle","meaning":"Unsupported outcome wording","type":"Banned"},
+  {"term":"instant","meaning":"Requires evidence","type":"Needs evidence"},
+  {"term":"perfect","meaning":"Absolute wording","type":"Needs legal"},
+  {"term":"always","meaning":"Absolute wording","type":"Needs legal"},
+  {"term":"never","meaning":"Absolute wording","type":"Needs legal"},
+  {"term":"cure","meaning":"Medical claim; requires approval","type":"Needs legal"},
+  {"term":"clinically proven","meaning":"Requires clinical evidence","type":"Needs evidence"},
+  {"term":"best","meaning":"Comparative claim; requires evidence","type":"Needs evidence"},
+  {"term":"number one","meaning":"Ranking claim; requires evidence","type":"Needs evidence"},
+  {"term":"#1","meaning":"Ranking claim; requires evidence","type":"Needs evidence"},
+  {"term":"free","meaning":"Requires clear conditions","type":"Needs legal"},
+  {"term":"limited time","meaning":"Requires current expiry","type":"Needs evidence"},
+  {"term":"act now","meaning":"Avoid pressure language","type":"Banned"},
+  {"term":"everyone","meaning":"Avoid broad universal claim","type":"Needs evidence"},
+  {"term":"instant results","meaning":"Outcome claim; requires evidence","type":"Needs evidence"},
+  {"term":"100%","meaning":"Absolute claim; requires evidence","type":"Needs evidence"},
+  {"term":"no risk","meaning":"Absolute claim; requires evidence","type":"Needs evidence"}
+]

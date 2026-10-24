@@ -1,0 +1,9 @@
+{
+  "phase": "before",
+  "viewport": {
+    "width": 1440,
+    "height": 1100
+  },
+  "base": "http://127.0.0.1:5177",
+  "screenshotCount": 25
+}
